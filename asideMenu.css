@@ -9,4 +9,7 @@
 }
 .steps{
     min-height: 185px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
